@@ -1,6 +1,6 @@
 # The Watson Lense
 
-> [cite_start]Um jogo de puzzle e aventura narrativo em uma Londres cyberpunk, onde o Dr. Watson é a "lente" humana para a ultra-lógica IA detetive, Sherlock Holmes[cite: 9, 10].
+> Um jogo de puzzle e aventura narrativo em uma Londres cyberpunk, onde o Dr. Watson é a "lente" humana para a ultra-lógica IA detetive, Sherlock Holmes.
 
 ![Arte Conceitual ou Screenshot](https://via.placeholder.com/600x350.png?text=Coloque+um+Screenshot+do+Seu+Jogo+Aqui)
 
@@ -8,29 +8,29 @@
 
 ## 📜 Sobre o Jogo
 
-[cite_start]**"The Watson Lense"** é uma experiência para um jogador com uma perspectiva Top-Down 2D[cite: 14]. [cite_start]Neste universo, o lendário detetive Sherlock Holmes é uma IA, e o jogador, no papel do Dr. John Watson, deve atuar como seus olhos e mãos no campo[cite: 10].
+**"The Watson Lense"** é uma experiência para um jogador com uma perspectiva Top-Down 2D. Neste universo, o lendário detetive Sherlock Holmes é uma IA, e o jogador, no papel do Dr. John Watson, deve atuar como seus olhos e mãos no campo.
 
-[cite_start]A missão é investigar cenas de crime, combinando a sutil observação humana de Watson com a poderosa análise de dados de HOLMES para desvendar mistérios complexos[cite: 11]. [cite_start]A atmosfera é sombria e chuvosa, com uma estética Low-Res Pixel Art Noir, em uma Londres futurista iluminada por neons[cite: 34, 35].
+A missão é investigar cenas de crime, combinando a sutil observação humana de Watson com a poderosa análise de dados de HOLMES para desvendar mistérios complexos. A atmosfera é sombria e chuvosa, com uma estética Low-Res Pixel Art Noir, em uma Londres futurista iluminada por neons.
 
-[cite_start]Este repositório contém o protótipo desenvolvido para a Game Jam, focado no capítulo inicial do jogo[cite: 3, 12].
+Este repositório contém o protótipo desenvolvido para a Game Jam, focado no capítulo inicial do jogo.
 
 ## ✨ Funcionalidades do Protótipo
 
-* [cite_start]**Dinâmica de Dupla Humano-IA:** Combine a exploração física de Watson com a análise lógica de HOLMES para progredir[cite: 11].
-* [cite_start]**Mecânica de Scan:** Use a ação de "Scan" para enviar dados de objetos e pistas do mundo físico para a IA, servindo como ponte entre os dois mundos[cite: 25].
-* [cite_start]**Resolução de Puzzles:** Resolva quebra-cabeças de dedução e insira códigos diretamente no cenário[cite: 15, 30].
-* [cite_start]**Narrativa Linear:** Avance na história resolvendo os mistérios dentro de um ambiente contido[cite: 15].
-* [cite_start]**Interface com a IA:** Interaja com o terminal de HOLMES, conecte pistas e visualize evidências através de uma UI dedicada[cite: 20, 29].
+* **Dinâmica de Dupla Humano-IA:** Combine a exploração física de Watson com a análise lógica de HOLMES para progredir.
+* **Mecânica de Scan:** Use a ação de "Scan" para enviar dados de objetos e pistas do mundo físico para a IA, servindo como ponte entre os dois mundos.
+* **Resolução de Puzzles:** Resolva quebra-cabeças de dedução e insira códigos diretamente no cenário.
+* **Narrativa Linear:** Avance na história resolvendo os mistérios dentro de um ambiente contido.
+* **Interface com a IA:** Interaja com o terminal de HOLMES, conecte pistas e visualize evidências através de uma UI dedicada.
 
 ## 🎮 Controles
 
-[cite_start]Os controles foram projetados para serem simples e focados na exploração[cite: 17].
+Os controles foram projetados para serem simples e focados na exploração.
 
 | Ação | Tecla / Dispositivo |
 | --- | --- |
-| **Mover o Dr. Watson** | [cite_start]Teclas **W, A, S, D** [cite: 18] |
-| **Interagir / Scan** | [cite_start]Tecla **E** [cite: 19] |
-| **Interagir com a UI (Terminal, Pistas)**| [cite_start]**Mouse** [cite: 20] |
+| **Mover o Dr. Watson** | Teclas **W, A, S, D** |
+| **Interagir / Scan** | Tecla **E** |
+| **Interagir com a UI (Terminal, Pistas)**| **Mouse** |
 
 ## 🚀 Como Executar o Projeto
 
@@ -54,11 +54,10 @@ Se você quiser baixar e rodar este protótipo localmente, siga os passos abaixo
 
 * **Engine:** Godot Engine 4.x
 * **Linguagem:** GDScript
-* **Arte:** *[Mencione o software que você usou, ex: Aseprite, Krita, Photoshop]*
+* **Arte:** *Aseprite, Piskel e Libresprite*
 
 ## 👤 Autor
 
-**[Seu Nome]**
+**João Pedro Cordeiro**
 
-* [Link para seu GitHub](https://github.com/SEU-USUARIO)
-* [Link para seu LinkedIn ou outra rede social (Opcional)]
+* [Link para seu GitHub](https://github.com/jpCordeiro06)
